@@ -34,7 +34,11 @@ A command-line interface (CLI) tool for querying devices from a NetBox instance.
 You can install `netbox_query` directly from the GitHub repository using `pip`.
 
 ```bash
-pip install git+https://github.com/yourusername/netbox_query.git
+pip install git+https://github.com/edwordout/NETBOX_QUERY.git
+```
+or
+```bash
+pip install git+git@github.com:edwordout/NETBOX_QUERY.git
 ```
 
 Replace `yourusername` with your actual GitHub username.

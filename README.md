@@ -41,8 +41,6 @@ or
 pip install git+git@github.com:edwordout/NETBOX_QUERY.git
 ```
 
-Replace `yourusername` with your actual GitHub username.
-
 ### Requirements
 
 - **Python**: 3.6 or higher

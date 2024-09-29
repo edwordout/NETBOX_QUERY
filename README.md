@@ -38,7 +38,7 @@ pip install git+https://github.com/edwordout/NETBOX_QUERY.git
 ```
 or
 ```bash
-pip install git+git@github.com:edwordout/NETBOX_QUERY.git
+pip install git+ssh://git@github.com/edwordout/NETBOX_QUERY.git
 ```
 
 ### Requirements

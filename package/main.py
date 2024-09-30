@@ -68,7 +68,7 @@ def main():
     parser.add_argument('--base-url', type=str, help='Base URL of the NetBox instance')
     parser.add_argument('--token', type=str, help='API token for NetBox')
 
-    parser.add_argument('--params', nargs='*', help='Query parameters for device search e.g., name=Server1 status=active')
+    parser.add_argument('--params', nargs='*', help='Query parameters for device search e.g., q=Server1 status=active')
 
     args = parser.parse_args()
 
